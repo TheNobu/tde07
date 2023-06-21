@@ -1,13 +1,10 @@
 import './App.css';
-import Login from './pages/Login';
+import Api from './pages/Api';
+// import Login from './pages/Login';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Login/>
-      </header>
-    </div>
+        <Api/>
   );
 }
 

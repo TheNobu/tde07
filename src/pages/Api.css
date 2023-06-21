@@ -1,0 +1,7 @@
+.apiContainer{
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    background-color: crimson;
+    height: 100vh;
+}
